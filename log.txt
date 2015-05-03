@@ -1,0 +1,19 @@
+Start: Sat, 2 May 2015 09:00:00 -0800
+End: Sat, 2 May 2015 11:51:00 -0800
+Tasks: Completed MultiTable
+
+Start: Sat, 2 May 2015 12:12:00 -0800
+End: Sat, 2 May 2015 14:06:00 -0800
+Tasks: Just about finished loopback.  Still want to do more testing on POST
+
+Start: Sat, 2 May 2015 16:12:00 -0800
+End: Sat, 2 May 2015 18:51:00 -0800
+Tasks: Finished testing loopback and nearly finished login.php/content1.php/content2.php
+
+Start: Sat, 2 May 2015 21:32:00 -0800
+End: Sat, 2 May 2015 22:33:00 -0800
+Tasks:Still working on login/content1/content2
+
+Start: Sun, 3 May 2015 07:46:00 -0800
+End: Sun, 3 May 2015 08:30:00 -0800
+Tasks: Completed log/content1/content2
